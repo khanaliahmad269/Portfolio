@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Financial Agent"
-              description="My Personal Ai chatbot whick helps makes financial decision."
+              description="My Personal Ai chatbot whick helps in making financial decision."
               ghLink="https://github.com/khanaliahmad269/financial_Agent"
               
             />
